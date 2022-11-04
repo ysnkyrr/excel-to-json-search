@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  padding: 0 20%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.search {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 20px;
+  margin-bottom: 5%;
+}
+.list {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+.list-item {
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: #444;
+  font-weight: 300;
+}
+.table- {
+  align-items: center;
+  margin: auto;
+}
+.title {
+  margin-left: 5%;
+}
+td,
+th {
+  width: 120px;
+  height: auto;
+  margin-left: 2%;
+}
+.form {
+  margin-top: 30px;
+}
+
+.viewer {
+  background-color: #e4e4e4;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 15px;
+}
+.selectBtn {
+  width: 11%;
+  height: auto;
+  margin: auto;
+  padding: 1%;
+  margin-left: 2%;
+  border-radius: 5px;
+  margin-bottom: 2%;
+}
+.selectBtn :active {
+  width: 11%;
+  height: auto;
+  margin: auto;
+  padding: 1%;
+  margin-left: 2%;
+  border-radius: 5px;
+  margin-bottom: 2%;
+  background: blue;
+}
+.search {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+.viewer {
+  margin-top: 3%;
+}
+.btn {
+  color: #064420;
+}
+.viewer{
+  background: #E4EFE7;
+}
